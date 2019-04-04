@@ -1,1 +1,3 @@
-const xxx = 'bbb';
+import ME from './src';
+
+export default ME;
