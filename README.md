@@ -25,3 +25,6 @@ ME.convert(arr).generate(target, class)
 ```
 
 aa
+a
+amend-after-a
+amend-after-last-commit-has-push
