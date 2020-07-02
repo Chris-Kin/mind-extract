@@ -23,3 +23,5 @@ ME.generate(target, class, tree)
 ```js
 ME.convert(arr).generate(target, class)
 ```
+
+aa
