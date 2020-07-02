@@ -25,3 +25,5 @@ ME.convert(arr).generate(target, class)
 ```
 
 aa
+a
+amend-after-a
